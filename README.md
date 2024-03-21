@@ -1,3 +1,4 @@
+Next.js Template with Shadcn UI
 Este proyecto utiliza next/font para optimizar y cargar automáticamente Inter, una fuente personalizada de Google Font.
 
 Aprende más
